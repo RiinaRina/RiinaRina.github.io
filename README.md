@@ -1,6 +1,6 @@
 # Assignment 01
-  - domain: nganphamriina.id.vn 
-  - hosting: nganphamriina.github.io
+  - domain: https://nganphamriina.id.vn 
+  - hosting: https://nganphamriina.github.io
 # Assignment 03
 ## Bài 1:
   - https://riinarina.github.io/baitap1/
